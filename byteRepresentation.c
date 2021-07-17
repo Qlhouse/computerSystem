@@ -35,7 +35,8 @@ void test_show_bytes(int val){
 }
 
 void main(void){
-    test_show_bytes(289);
+    test_show_bytes(12345
+    );
 }
 
 
