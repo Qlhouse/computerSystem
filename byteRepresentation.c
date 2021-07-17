@@ -2,7 +2,7 @@
 // Created by Administrator on 2021/7/13.
 //
 
-#include <stdio.h>
+#include<stdio.h>
 
 typedef unsigned char *byte_pointer;
 
