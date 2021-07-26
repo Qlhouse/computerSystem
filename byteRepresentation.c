@@ -37,6 +37,8 @@ void test_show_bytes(int val){
 void main(void){
     test_show_bytes(12345
     );
+    const char *m = "mnopqr";
+    show_bytes((byte_pointer) m, strlen(m));
 }
 
 
